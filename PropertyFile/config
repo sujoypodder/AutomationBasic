@@ -1,0 +1,6 @@
+driverpath=C:\\Users\\88016\\eclipse-workspace\\PracticeForExam\\DriverBrowser\\chromedriver.exe
+baseUrl=https://www.facebook.com/
+emailid=email
+emailtext=abc123gmail.com
+password=pass
+passwordtext=14kgfbahuboli45
